@@ -35,7 +35,7 @@ I'm a passionate student and researcher exploring the cutting edge of **cybersec
 
 ## 🌐 Connect with Me
 
-- Open for collabration [LinkedIn](https://www.linkedin.com/in/kathan-vyas-29b558253/) 
+- [LinkedIn](https://www.linkedin.com/in/kathan-vyas-29b558253/) (Open for collabration)
   
 
 ---
