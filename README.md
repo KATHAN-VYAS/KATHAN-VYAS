@@ -16,8 +16,8 @@ I'm a passionate student and researcher exploring the cutting edge of **cybersec
 
 ## 🛠️ Skills & Tools
 
-- **Programming:** Python
-- **Machine Learning:** CNN, QCNN, Quantum Machine Learning
+- **Programming:** Python, C, Java, SQL, HTML, CSS, JavaScript, 
+- **AI/Machine Learning:** CNN, QCNN, Quantum Machine Learning
 - **Cybersecurity:** Ethical Hacking, Cryptography, Nmap, Metasploit, Wireshark
 - **Development Tools:** Docker, Tinkercad, Autocad, Arduino
 - **Cloud & Automation:** AWS Lambda, API Gateway, DynamoDB, Amazon Lex
@@ -35,7 +35,8 @@ I'm a passionate student and researcher exploring the cutting edge of **cybersec
 
 ## 🌐 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/kathan-vyas-29b558253/)
+- Open for collabration [LinkedIn](https://www.linkedin.com/in/kathan-vyas-29b558253/) 
+  
 
 ---
 
